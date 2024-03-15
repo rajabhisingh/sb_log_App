@@ -25,16 +25,8 @@ System.out.println(c);
 public void m2(){
 int b=10;
 System.out.println(b);
-
-<<<<<<< Updated upstream
-=======
-}
-public void m4(){
-int d =40;
->>>>>>> Stashed changes
 }
 public void m4(){
 int d =40;
 }
-
 String str = "Anhf";
