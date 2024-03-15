@@ -21,5 +21,13 @@ pubic void m3(){
 int c =30;
 System.out.println(c);
 
+<<<<<<< Updated upstream
+=======
+		
+	}
+public void m2(){
+int b=10;
+System.out.println(b);
+>>>>>>> Stashed changes
 
 }
