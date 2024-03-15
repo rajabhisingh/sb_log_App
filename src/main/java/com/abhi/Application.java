@@ -35,4 +35,7 @@ String str = "Anhf";
 public void add(){
 int c = a+b;
 }
+<<<<<<< Updated upstream
 int r = 50;
+=======
+>>>>>>> Stashed changes
