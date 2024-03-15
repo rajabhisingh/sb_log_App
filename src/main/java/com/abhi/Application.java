@@ -12,6 +12,12 @@ int a =10;
 
 
 }
+void m1(){
+//logic
+}
+void m2(){
+int a = 10;
+}
 
 
 
