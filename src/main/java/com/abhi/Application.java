@@ -15,8 +15,11 @@ public class Application {
 public void m1(){
 int a = 10;
 System.out.println(a);
+}
+//C-103
+pubic void m3(){
+int c =30;
+System.out.println(c);
 
-		
-	}
 
 }
