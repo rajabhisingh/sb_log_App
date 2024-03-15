@@ -10,6 +10,11 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 int a =10;
 
+
+}
+public void add(){
+}
+public void sub(){
 }
 
 
