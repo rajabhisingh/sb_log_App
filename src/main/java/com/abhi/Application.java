@@ -12,6 +12,9 @@ public class Application {
                  int a =10;
 		int b=20;
 		int c=30;
+public void m1(){
+int a=10;
+System.out.println(a);
 		
 	}
 
