@@ -25,8 +25,14 @@ System.out.println(c);
 public void m2(){
 int b=10;
 System.out.println(b);
+
 }
 public void m4(){
 int d =40;
 }
+
 String str = "Anhf";
+public void add(){
+int c = a+b;
+}
+int r = 50;
