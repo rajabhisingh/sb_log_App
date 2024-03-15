@@ -12,12 +12,6 @@ int a =10;
 
 
 }
-public void add(){
-<<<<<<< Updated upstream
-}
-public void sub(){
-=======
->>>>>>> Stashed changes
-}
+
 
 
